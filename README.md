@@ -7,4 +7,4 @@ https://codesandbox.io/s/github/darwinlenin/GifSearchExcercise
 https://csb-285sg.vercel.app/
 
 # Hosted in Netlify
-https://csb-285sg.netlify.app/
+https://csb-jvb95.netlify.app/
